@@ -267,7 +267,7 @@
 - [PM Skills](https://github.com/mohitagw15856/pm-claude-skills) - 771 professional skills across 35 professions, including PRDs, postmortems, and negotiation simulators.
 - [Marketing Skills](https://github.com/coreyhaines31/marketingskills) - 49 marketing skills for AI agents covering SEO, copywriting, cold email, pricing, CRO, ads, and analytics.
 - [NotFair](https://github.com/nowork-studio/NotFair) - Open-source Claude Code skills for SEO, Google Ads, and Meta Ads with live data connectors.
-- [open-finance-skills](https://github.com/levelcfo/open-finance-skills) - 8 Claude Code skills, MCP server, and zero-dependency Python 3 CLI calculators for SMB bookkeeping, month-end close, 13-week cash flow forecasting, and AR/AP automation.
+- [open-finance-skills](https://github.com/levelcfo/open-finance-skills) - 20 SMB finance and month-end close skills, synthetic JSON test fixtures, and a local read-only MCP server for bank reconciliation, 13-week cash flow forecasting, AR integrity, and vendor 1099 readiness.
 - [agent37-skills-collection](https://github.com/agent37-platform/agent37-skills-collection) - Claude Code plugin marketplace with YC advisor, local review, and related agent plugins.
 - [Agent Skills Hub](https://agentskillshub.top) - Open directory of agent skills and MCP servers with security grades and quality scores.
 - [Remote OpenClaw](https://www.remoteopenclaw.com/skills) - Searchable directory of agent skills and MCP servers across OpenClaw, Hermes, Claude Code, and Codex.
